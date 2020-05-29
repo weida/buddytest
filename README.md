@@ -1,1 +1,0 @@
-参考linux内核简化一个小程序，输出结果模拟 wiki Buddy memory allocation的分配释放过程
