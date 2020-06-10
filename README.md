@@ -1,1 +1,1 @@
-参考linux内核简化一个小程序，输出结果模拟 wiki Buddy memory allocation的分配释放过程
+The program implemented [Buddy memory allocation](https://en.wikipedia.org/wiki/Buddy_memory_allocation#cite_note-3) in the wiki
