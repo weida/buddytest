@@ -1,7 +1,9 @@
 The program implemented [Buddy memory allocation](https://en.wikipedia.org/wiki/Buddy_memory_allocation#cite_note-3) in the wiki
 
-
-# ./buddytest
+```bash
+$ make
+$ ./buddytest
+```
 ```
      |2^4
  step| 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K |
