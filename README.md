@@ -2,6 +2,7 @@ The program implemented [Buddy memory allocation](https://en.wikipedia.org/wiki/
 
 
 # ./buddytest
+```
      |2^4
  step| 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K | 64K |
  1   |2^4
@@ -35,3 +36,4 @@ The program implemented [Buddy memory allocation](https://en.wikipedia.org/wiki/
      |2^3                                            |2^3
      |2^4
  9   |2^4
+```
